@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DllDaniel
+- 👋 Hi, I’m @DllDaniel, a Python student with the dream of one day being a pilot. Coding is always in my plans btw.
 - 👀 I’m interested in software development and automation.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on projects that help with my development.
